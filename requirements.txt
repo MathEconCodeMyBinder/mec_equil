@@ -4,5 +4,5 @@ scipy >= 1.7.1
 gurobipy >= 9.1.0
 matplotlib >= 3.4.3
 networkx >=  2.6.3
-osmnx == 1.0.1
+osmnx == 0.16.2
 numdifftools >= 0.9
