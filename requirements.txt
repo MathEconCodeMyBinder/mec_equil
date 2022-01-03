@@ -5,3 +5,4 @@ gurobipy >= 9.1.0
 matplotlib >= 3.4.3
 networkx >=  2.6.3
 osmnx == 1.0.1
+numdifftools >= 0.9
